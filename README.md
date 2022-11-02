@@ -1,7 +1,7 @@
-![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 <h1 align="center">Hola 👋, I'm Santhosh</h1>
 <h3 align="center">Engineer and Astrophile</h3>
-<img align="right" alt="Coding" width="400" src= "https://64.media.tumblr.com/7b234727e131797ade181a5265311d12/af46526ba9178c69-a1/s1280x1920/8cf510f95b9c6822efe441f85d26287c18fc3e42.gif">
+<img align="right" alt="Coding" width="400" src= "https://s3-us-west-2.amazonaws.com/abgames-blog/2018/12/QANq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanoptiprime&label=Profile%20views&color=0e75b6&style=flat" alt="sanoptiprime" /> </p>
 
