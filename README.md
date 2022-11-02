@@ -1,7 +1,7 @@
-[![MasterHead](https://64.media.tumblr.com/8b2a2d3957cf13e5548f08504f0e1d4a/tumblr_owsbgsWF5R1r5u9m2o3_r1_500.gif)]
+![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hola 👋, I'm Santhosh</h1>
 <h3 align="center">Engineer and Astrophile</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn-blog.adafruit.com/uploads/2020/08/tumblr_c033a9e8d94d0f9bb443879be3bdf97a_be998c70_1280.gif">
+<img align="right" alt="Coding" width="400" src= "https://64.media.tumblr.com/7b234727e131797ade181a5265311d12/af46526ba9178c69-a1/s1280x1920/8cf510f95b9c6822efe441f85d26287c18fc3e42.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanoptiprime&label=Profile%20views&color=0e75b6&style=flat" alt="sanoptiprime" /> </p>
 
@@ -39,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanoptiprime&show_icons=true&locale=en" alt="sanoptiprime" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanoptiprime&" alt="sanoptiprime" /></p>
-
